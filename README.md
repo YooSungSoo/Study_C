@@ -1,1 +1,1 @@
-# Study_Git_Practice
+# Study_C/C++
