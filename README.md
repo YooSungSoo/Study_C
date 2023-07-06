@@ -1,1 +1,1 @@
-# Study_C/C++
+# Study_C
