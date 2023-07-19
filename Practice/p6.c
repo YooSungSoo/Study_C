@@ -15,3 +15,4 @@ int main(void)
     printf("2^%d = %d",num,A(num,1));
     return 0;
 }
+
